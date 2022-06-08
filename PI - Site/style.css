@@ -53,12 +53,10 @@
     background-color: #144F33;
     width: 800px;
     height: 520px;
-    margin-left: -400px;
-    margin-top: -270px;
-    position: absolute;
-    left: 50%;
-    top: 450px;
-    
+
+    margin-left: auto;
+    margin-right: auto;
+
     border-radius: 5px;
 }
 .form{
@@ -161,4 +159,45 @@
     color: white;
     background-color:#469A3A;
     box-shadow: 3px 3px 10px 1px rgba(255, 255, 255, 0.036);
+}
+
+
+.foot{
+    width: auto;
+    background-color: #144F33;
+
+    color: white;
+
+    height: 340px;
+
+    margin-top: 30px;
+    margin-bottom: -60px;
+
+    padding-top: 20px;
+
+}
+
+.bx-infor{
+
+    margin-top: 15px;
+
+    background-color: #ffffff;
+    color: black;
+
+    width: 135px;
+    height: 240px;
+
+    text-align: center;
+
+    border-radius: 3px;
+
+    padding: 20px;
+}
+
+.ava-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+
+    margin-bottom: 5px;
 }
