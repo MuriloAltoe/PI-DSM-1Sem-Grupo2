@@ -5,7 +5,7 @@ Projeto interdisciplinar
    <img src="https://user-images.githubusercontent.com/97535906/169659796-9bd5ca96-542b-4075-a78a-4ab2b6afe2d8.png" width="400"/>
 </p>
 
-> <b>agrotech</b> é um projeto academico desenvolvido em grupo baseado no tema: "Ação contra a mudança global do clima", com intuito de ajudar o meio ambiente.
+> <b>agroinfo</b> é um projeto academico desenvolvido em grupo baseado no tema: "Ação contra a mudança global do clima", com intuito de ajudar o meio ambiente.
 
 <div align="center">
   <sub>O <strong>Projeto</strong> foi desenvolvido com ❤︎ por
@@ -19,15 +19,20 @@ Projeto interdisciplinar
   </sub>
 </div>
 
+<br>
+<h4 align="center"> 
+	🚧 🚀 Em construção...  🚧
+</h4>
+
 # :pushpin: Conteúdo
 
--
--
 - [Tecnologias](#computer-tecnologias)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
+<br>
 ### Fotos
+
 
 <div>
    <img src="" width="400px">
@@ -44,10 +49,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 - [Html](https://www.w3schools.com/html/default.asp)
 - [Css](https://www.w3schools.com/css/default.asp)
-- [Bootstrap](https://getbootstrap.com/)
-- [   ]( )
-- [   ]( )
-- 
+- [Bootstrap](https://getbootstrap.com/) 
 
 # 
 Acesse <  > para ver o resultado.
@@ -69,7 +71,7 @@ Acesse <  > para ver o resultado.
        <br />
     </td> 
     <td align="center">
-      <a href=" ">
+      <a href="https://github.com/MuriloAltoe">
         <img src="https://avatars.githubusercontent.com/u/99839906?v=4" width="100px;" alt="Murilo"/>
         <br />
         <sub>
@@ -81,7 +83,7 @@ Acesse <  > para ver o resultado.
        <br />
     </td>
      <td align="center">
-      <a href=" ">
+      <a href="https://github.com/Isagaiteiro">
         <img src="https://avatars.githubusercontent.com/u/97116169?v=4" width="100px;" alt="Isabela"/>
         <br />
         <sub>
@@ -142,6 +144,20 @@ Acesse <  > para ver o resultado.
     </td>
   </tr>
   </table>
+  <br>
+  # Agradecimento 
+
+## Professores
+- Jonas Bôde - Engenharia de Software II <br/>
+- Nilton Sacco - Banco de Dados - Relacional <br/>
+- Orlando Saraiva - Desenvolvimento Web II <br/>
+<br>
+
+## Intituição
+- Faculdade de Tecnologia do Centro Paula Souza - Fatec Araras<br/>
+https://fatecararas.cps.sp.gov.br/
+
+<br>
      
 # :closed_book: Licença
 
