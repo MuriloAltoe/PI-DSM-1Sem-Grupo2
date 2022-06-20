@@ -21,10 +21,31 @@
 .rel{
     position: absolute;
     left: 50%;
-    margin-left: -500px; /*Alterar*/
-    margin-top: -250px;
+    margin-left: -300px; /*Alterar*/
+    margin-top: -80px;
     color: white;
     text-align: center;
+    
+}
+
+.rel1{
+    position: absolute;
+    left: 50%;
+    margin-left: -250px; /*Alterar*/
+    margin-top: -80px;
+    color: white;
+    text-align: center;
+    
+}
+
+.rel2{
+    position: absolute;
+    left: 50%;
+    margin-left: -270px; /*Alterar*/
+    margin-top: -130px;
+    color: white;
+    text-align: center;
+    
 }
 
 .abs{
@@ -45,7 +66,7 @@
 }
 
 .agro{
-    font-size: 70px;
+    font-size: 40px;
     TEXT-TRANSFORM: UPPERCASE;
 }
 
