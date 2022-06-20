@@ -2,7 +2,7 @@
 Projeto interdisciplinar
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/97535906/169659796-9bd5ca96-542b-4075-a78a-4ab2b6afe2d8.png" width="400"/>
+   <img src="https://user-images.githubusercontent.com/97535906/174689349-9fd0abbd-31c5-4582-b112-a7d6406e3894.png" width="400"/>
 </p>
 
 > <b>agroinfo</b> é um projeto academico desenvolvido em grupo baseado no tema: "Ação contra a mudança global do clima", com intuito de ajudar o meio ambiente.
@@ -13,7 +13,7 @@ Projeto interdisciplinar
     <a href="https://github.com/MuriloAltoe">Murilo</a> |
     <a href="https://github.com/Isagaiteiro">Isabela</a> |
     <a href="https://github.com/LuizaPascuotte">Luiza</a> |
-    <a href="">Walter</a> |
+    <a href="https://github.com/walterhenriquemoreira">Walter</a> |
     <a href="https://github.com/StefanyMartins19">Stefany</a> |
     <a href="https://github.com/danisormani">Daniely</a> |
   </sub>
@@ -28,20 +28,10 @@ Projeto interdisciplinar
 
 - [Tecnologias](#computer-tecnologias)
 - [Autores](#computer-autores)
-- [Licença](#closed_book-licença)
+- [Agradecimentos](#closed_book-professores)
 
 <br>
-### Fotos
 
-
-<div>
-   <img src="" width="400px">
-   <img src="" width="400px">
-   <img src="" width="400px">
-   <img src="" width="400px">
-   <img src="" width="400px">
-   <img src="" width="400px">
-</div>
 
 # :computer: Tecnologias
 
@@ -107,7 +97,7 @@ Acesse <  > para ver o resultado.
        <br />
     </td>
     <td align="center">
-      <a href=" ">
+      <a href="https://github.com/walterhenriquemoreira ">
         <img src="https://user-images.githubusercontent.com/97535906/169662466-f01de74b-ddde-4421-b658-874537c746d9.jpg" width="100px;" alt="Walter"/>
         <br />
         <sub>
@@ -135,7 +125,7 @@ Acesse <  > para ver o resultado.
         <img src="https://avatars.githubusercontent.com/u/103004441?v=4" width="100px;" alt="Stefany"/>
         <br />
         <sub>
-          <b>Daniely</b>
+          <b>Stefany</b>
         </sub>
        </a>
        <br />
@@ -147,10 +137,10 @@ Acesse <  > para ver o resultado.
   <br>
   # Agradecimento 
 
-## Professores
-- Jonas Bôde - Engenharia de Software II <br/>
-- Nilton Sacco - Banco de Dados - Relacional <br/>
-- Orlando Saraiva - Desenvolvimento Web II <br/>
+# :closed_book: Professores
+- Orlando Saraiva - Engenharia de Software I <br/>
+- Daniel Robledo -  Design Digital <br/>
+- Sandro Valerius - Desenvolvimento Web <br/>
 <br>
 
 ## Intituição
@@ -159,6 +149,5 @@ https://fatecararas.cps.sp.gov.br/
 
 <br>
      
-# :closed_book: Licença
 
-Este projeto está sob a licença [MIT](./LICENCE).
+
